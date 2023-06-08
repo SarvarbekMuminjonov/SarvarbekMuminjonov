@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Clean Architecture, Node JS, Multithreading**
 
-- 💬 Ask me about **JavaScript,Node js**
+- 💬 Ask me about **JavaScript,TypeScript,Node js**
 
 - 📫 How to reach me **smomimjonov20@gmail.com**
 
